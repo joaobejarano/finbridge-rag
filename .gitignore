@@ -26,5 +26,4 @@ data/
 .env
 .codex
 secrets.toml
-app.py
 README.md
