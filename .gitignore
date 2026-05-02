@@ -1,0 +1,32 @@
+# Ambiente
+.venv/
+.env
+
+# ChromaDB (será recriado no deploy)
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados baixados
+data/
+.env
+.codex
+secrets.toml
+src
+app.py
+config.py
+README.md
